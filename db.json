@@ -1,0 +1,7 @@
+{
+    "goods": [
+        {"id": 1, "title": "Cheesecake New York", "price": 1000, "image": "https://marush.am/wp-content/uploads/2020/11/cheesecake-600x600.jpg"},
+        {"id": 2, "title": "Banana Cake", "price": 9000, "image": "https://marush.am/wp-content/uploads/2021/08/66A1723-600x600.jpg"},
+        {"id": 3, "title": "Cake Kiev ", "price": 7000, "image": "https://marush.am/wp-content/uploads/2020/12/2861605-scaled-600x600.jpg"}
+    ]
+}
